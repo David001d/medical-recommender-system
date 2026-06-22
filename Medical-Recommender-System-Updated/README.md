@@ -63,8 +63,7 @@ Create and activate a virtual environment, then install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-git config --global user.name "david001d"
-git config --global user.email "dcraigford@gmail.com"
+
 ---
 
 ## ▶️ Running the Application
