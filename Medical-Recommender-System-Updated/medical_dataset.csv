@@ -1,0 +1,43 @@
+symptoms,severity,duration,body_part,condition_type,specialist
+chest pain shortness of breath,severe,sudden,chest,heart problem,Cardiologist
+irregular heartbeat dizziness,moderate,1 week,chest,heart problem,Cardiologist
+high blood pressure headache,moderate,1 month,whole body,cardiovascular disorder,Cardiologist
+swollen legs fatigue,mild,2 weeks,legs,heart problem,Cardiologist
+tooth pain gum bleeding,moderate,3 days,mouth,dental problem,Dentist
+sensitive teeth cold drinks,mild,2 weeks,mouth,dental problem,Dentist
+jaw pain chewing difficulty,moderate,1 week,mouth,dental disorder,Dentist
+bad breath gum swelling,mild,1 month,mouth,oral health issue,Dentist
+skin rash itching redness,mild,1 week,skin,skin disorder,Dermatologist
+acne pimples oily skin,mild,3 months,face,skin disorder,Dermatologist
+hair loss scalp irritation,moderate,2 months,scalp,skin disorder,Dermatologist
+eczema dry skin itching,moderate,1 month,skin,skin disorder,Dermatologist
+eye pain blurry vision,moderate,2 days,eye,vision problem,Ophthalmologist
+red eyes watery eyes,mild,4 days,eye,eye infection,Ophthalmologist
+double vision headaches,severe,1 week,eye,vision disorder,Ophthalmologist
+difficulty seeing at night,mild,3 months,eye,vision disorder,Ophthalmologist
+ear pain hearing problem,moderate,4 days,ear,hearing disorder,ENT Specialist
+sore throat difficulty swallowing,moderate,5 days,throat,throat infection,ENT Specialist
+sinus congestion facial pressure,mild,1 week,nose,sinus disorder,ENT Specialist
+ringing ears dizziness,moderate,2 weeks,ear,hearing disorder,ENT Specialist
+joint pain back pain,mild,2 weeks,joints,musculoskeletal disorder,Orthopedic Doctor
+knee pain swelling,moderate,3 weeks,knee,joint disorder,Orthopedic Doctor
+shoulder pain limited movement,moderate,1 month,shoulder,musculoskeletal disorder,Orthopedic Doctor
+fracture bone pain,severe,sudden,arm,bone injury,Orthopedic Doctor
+anxiety stress panic attacks,moderate,1 month,mind,mental health,Psychologist
+depression sadness fatigue,moderate,2 months,mind,mental health,Psychologist
+sleep problems excessive worry,mild,3 months,mind,mental health,Psychologist
+social anxiety fear of crowds,moderate,6 months,mind,mental health,Psychologist
+fever cough sore throat,mild,3 days,whole body,infection,General Physician
+fatigue weakness dizziness,mild,2 weeks,whole body,general illness,General Physician
+stomach pain nausea,mild,2 days,abdomen,digestive disorder,General Physician
+vomiting diarrhea,moderate,3 days,abdomen,gastrointestinal disorder,General Physician
+abdominal cramps bloating,mild,1 week,abdomen,digestive disorder,Gastroenterologist
+acid reflux heartburn,moderate,2 months,stomach,digestive disorder,Gastroenterologist
+blood in stool abdominal pain,severe,1 week,intestine,digestive disorder,Gastroenterologist
+frequent urination burning sensation,moderate,5 days,urinary tract,urinary disorder,Urologist
+kidney pain back pain,severe,1 week,kidney,urinary disorder,Urologist
+difficulty urinating,moderate,2 weeks,urinary tract,urinary disorder,Urologist
+persistent cough wheezing,moderate,1 month,lungs,respiratory disorder,Pulmonologist
+shortness of breath chronic cough,severe,2 months,lungs,respiratory disorder,Pulmonologist
+headache dizziness migraine,moderate,1 week,head,neurological disorder,Neurologist
+numbness tingling weakness,severe,3 days,nerves,neurological disorder,Neurologist
